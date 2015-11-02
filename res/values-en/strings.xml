@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HangMan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- 
+  bottons for the name of bodyparts 
+   -->
+    <string name="gallows">Gallows with rope</string>
+    <string name="head">The head</string>
+    <string name="body">The Body</string>
+    <string name="arm">One leg</string>
+    <string name="leg">One leg</string>
+    
+    <!-- 
+  bottons for the displaying information
+   -->
+    <string name="abortTitle">Abort</string>
+    <string name="Wintext">Wins: </string>
+    <string name="losetxt">Lost: </string>
+    
+    <!-- 
+  bottons for the display of noMoreWordsBuild appearing when there is no more words in the array.
+   -->
+   <string name="noMoreWordsTitle">OH no</string>
+   <string name="noMoreWordsMessage">You have played through all the games in this session, well done!</string>
+   <string name="noMoreWordsButton">Please exit the game</string>
+   
+    
+    <!-- 
+  bottons for the MainMenyButtons
+   -->
+    <string name="language">Language</string>
+    <string name="playTxt">Play Game</string>
+    <string name="abortTxt">Exit Game</string>
+    <string name="ruleTxt">Rules</string>
+    <string name="optionTxt">Options</string>
+   
+ <!-- 
+  bottons for the ActionBar helper Meny
+   -->
+    
+    <string name="Help">Help</string>
+    <string name="ok">OK</string>
+    
+    
+    <!--
+  Bottons containing information about desplaying rules of the game on mainpage:
+-->
+    
+    <string name="setMessage">The rules of the game</string>
+    <string name="positiveRules">Do you wish to continue?</string>
+    <string name="rules">Guess the words by selecting from the letters at the keyboard."
+		      "You only have 6 wrong selections before you loose the game!"
+		      "If you would like to view the rules, press the ? at the top right corner"
+		      "anytime you play. Please Enjoy the game</string>
+    <!--
+ 	Bottons containing information about exiting the game on mainpage: 
+-->
+	<string name="setTittle">Exit the game</string>
+	<string name="exitinfo">Are you sure you wish to exit the game?</string>
+	<string name="negativeBtn">Exiting game..</string>
+	
+	
+	
+	<!-- 
+	loosebuild displayy info in Gameactivity java file. -->
+	<string name="looseTittle">Opps</string>
+	<string name="looseMessage1">You lost the game!\n\nThe answer was:</string>
+	<string name="looseMessage2">\n\n You have lost: </string>
+	<string name="looseMessage3">times</string>
+	<string name="looseAgain">Press here to play again?</string>
+	
+	<!-- 
+	Winbuild displayInfo:
+ 	-->
+ 	<string name="winTittle">Congratulations</string>
+ 	<string name="winMessage1">You won the game.\n\n The correct word was: </string>
+ 	<string name="winAgain">Do you wish to play again?</string>
+ 	<string name="winExit">Exit</string>
+ 	
+ 	<string-array name="languages">
+        <item>Select language</item>
+        <item>English</item>
+        <item>Norwegian</item>
+    </string-array>
+ 
+	
+
+</resources>

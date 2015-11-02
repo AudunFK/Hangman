@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HangMan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Innstillinger</string>
+    <string name="pictitle">Hjelp</string>
+    <string name="mutetitle">stenglyd</string>
+    <string name="abortTitle">Avbryt</string>
+    <string name="gallows">Galge og tau</string>
+    <string name="head">Hodet</string>
+    <string name="body">Kroppen</string>
+    <string name="arm">Et ben</string>
+    <string name="leg">Et ben</string>
+    
+    <string name="Wintext">Seiere: </string>
+    <string name="losetxt">Tap: </string>
+    <string name="language">Bytt språk</string>
+    <string name="playTxt">Start Spill </string>
+    <string name="abortTxt">Avslutt</string>
+    <string name="ruleTxt">Regler</string>
+    <string name="optionTxt">Alternativer</string>
+    
+   <string name="noMoreWordsTitle">OH NEI</string>
+   <string name="noMoreWordsMessage">Du har fullført alle mulige ord i dette spillet!</string>
+   <string name="noMoreWordsButton">Vennligst avslutt spillet</string>
+    
+   <!-- 
+  bottons for the ActionBar helper meny
+   -->
+    <string name="Help">Hjelp</string>
+    <string name="ok">OK</string>
+    
+  <!--
+  Bottons containing information about desplaying rules of the game:
+-->
+    <string name="setMessage">Reglene til spillet:</string>
+    <string name="positiveRules">Trykk her for å returnere til spillet</string>
+    <string name="rules">Regler for spillet\n\n Du har 6 trekk på og gjette deg til riktig løsningsord\n\n
+       Om du ikke klarer å gjette riktig ord på dine forsøk, vil du tape spillet og din figur hengt.</string>
+
+<!--
+  Bottons containing information about desplaying how to exit the game:
+-->
+
+	<string name="setTittle">Avslutt spillet</string>
+	<string name="exitinfo">Er du sikker på at du ønsker å avslute spillet?</string>
+	<string name="negativeBtn">Avslutt..</string>
+	
+	
+<!-- 
+	loosebuild displayy info. 
+-->	
+	<string name="looseTittle">Oops</string>
+	<string name="looseMessage1">Du tapte spillet!\n\nDet korrekte svaret var:\n\n</string>
+	<string name="looseMessage2">\n\nDu har til nå tapt: </string>
+	<string name="looseMessage3">ganger</string>
+	<string name="looseAgain">Vill du prøve på nytt?</string>
+	
+<!-- 
+	Winbuild displayInfo:
+ -->
+ 
+ 	<string name="winTittle">Gratulerer</string>
+ 	<string name="winMessage1">Gratulere du vant spillet. \n\n Vinnerordet var:  </string>
+ 	<string name="winAgain">Vill du spille igjen?</string>
+ 	<string name="winExit">Avslutt</string>
+ 	
+ 	<string-array name="languages">
+        <item>Velg Språk</item>
+        <item>Engelsk</item>
+        <item>Norsk</item>
+        
+    </string-array>
+ 
+	
+	
+</resources>

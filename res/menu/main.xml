@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="android.hioa.hangman.MainActivity" >
+
+    <item
+        android:id="@+id/action_help"
+        android:icon="@drawable/qmark"
+        android:showAsAction="ifRoom"
+        android:title="@string/pictitle"/>
+	
+	<item
+	    android:title="@string/abortTitle"
+	     android:id="@+id/action_abort"
+	     android:icon="@drawable/abortlogo"
+	     android:showAsAction="ifRoom"
+	    
+	    
+	    />
+</menu>

@@ -1,0 +1,77 @@
+
+Planleggingsfasen:
+
+Menyvalg:
+-Regler, 
+-Starte spill,
+-Endre Språk,
+-Avslutte Applikasjonen.
+
+
+Designvalg:
+
+
+Metoderjegtrenger:
+
+Husk 15 ord i hovedarrayet: velger ut et tilfeldig ord for nytt spill:
+
+Test(Teste om bokstaven bruker taster inn er innehold i ordet som har blitt valgt ovenfor)
+
+Sjekke lengden på på ordet og få opp tilsvarende _ _ _ _ _ _ 
+
+Sjekke om input matcher ordet, (uferdig) 
+
+Gal innput marker bokstav og endrer animasjonen 
+
+registrere antall vunnet og tapte spill( på skjermen) 
+
+
+
+
+
+
+Endre språk: 
+
+XML endring...
+
+
+
+Husk å legge til funksjonalitet for å telle antall seiere og vise de frem i et vindu. 
+
+
+
+
+Informasjon og inspirasjon: 
+
+http://www.tuicool.com/articles/2IvE3mA
+
+
+Leveringskrav:
+
+UML av klassene, hvordan de vekselsvirker
+Endring av språk 
+Tilting av skjerm. 
+Navngis med studnr
+Dokumentasjon. 
+Designprinsipper og dokumentasjon, hvordan du har brukt designprinsippene.
+Dette aspektet står det om på android developer 
+ 
+
+
+
+/legges inn for å presse elementer lengre ned i graphical view. 
+
+ <View />
+
+    <View android:layout_weight="1" />
+
+    <View />
+
+    <View android:id="@+id/bottom" />
+
+
+
+
+
+
+
